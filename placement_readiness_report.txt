@@ -1,0 +1,33 @@
+
+AI PLACEMENT READINESS ANALYZER
+================================
+
+Total Students: 300
+
+Average CGPA:
+7.28
+
+Average Attendance:
+79.73%
+
+Average Readiness Score:
+5.91/10
+
+READINESS DISTRIBUTION
+----------------------
+readiness_category
+Low            8
+Average      155
+Good         134
+Excellent      3
+
+MODEL
+-----
+Algorithm: Random Forest Classifier
+
+The system analyzes academic performance,
+attendance, internships, projects,
+certifications, coding skills, soft skills,
+communication, aptitude and domain knowledge.
+
+Generated automatically by AI Placement Readiness Analyzer.
